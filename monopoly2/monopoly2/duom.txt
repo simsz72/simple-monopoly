@@ -1,0 +1,12 @@
+Mamos namai
+100
+Alga
+500
+Keltas
+-100
+Kanalas
+200
+Plesikai
+-300
+Didelelis Karpis
+300
